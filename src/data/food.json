@@ -1,0 +1,45 @@
+{
+    "Scrambled Eggs": 
+    { 
+        "Calories": 200,
+        "Protein (g)": 14,
+        "Total Carbohydrates (g)": 1,
+        "Sugar (g)": 0,
+        "Total Fat (g)": 15
+    },
+
+    "Raisins": 
+    { 
+        "Calories": 25,
+        "Protein (g)": 0,
+        "Total Carbohydrates (g)": 7,
+        "Sugar (g)": 6,
+        "Total Fat (g)": 0
+    },
+
+    "Banana": 
+    { 
+        "Calories": 110,
+        "Protein (g)": 1,
+        "Total Carbohydrates (g)": 27,
+        "Sugar (g)": 14,
+        "Total Fat (g)": 0
+    },
+    "Orange": 
+    { 
+        "Calories": 60,
+        "Protein (g)": 1,
+        "Total Carbohydrates (g)": 14,
+        "Sugar (g)": 11,
+        "Total Fat (g)": 0
+    },
+    "Apple": 
+    { 
+        "Calories": 70,
+        "Protein (g)": 0,
+        "Total Carbohydrates (g)": 18,
+        "Sugar (g)": 14,
+        "Total Fat (g)": 0
+    }
+
+}
